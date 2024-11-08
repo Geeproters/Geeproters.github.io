@@ -2,17 +2,21 @@
 layout: default
 ---
 
-<div class="pagination {% if page.previous and page.next %}both-buttons{% else %}right-button{% endif %}">
+<div class="pagination 
+    {% if page.previous and page.next %}both-buttons
+    {% elsif page.previous %}left-button
+    {% else %}right-button
+    {% endif %}">
     {% if page.previous %}
-        <a href="{{ page.previous.url }}" class="prev">
-            ← {{ page.previous.title | split: ": " | last }}
-        </a>
+    <a href="{{ page.previous.url }}" class="prev">
+        ← {{ page.previous.title | split: ": " | last }}
+    </a>
     {% endif %}
 
     {% if page.next %}
-        <a href="{{ page.next.url }}" class="next">
-            {{ page.next.title | split: ": " | last }} →
-        </a>
+    <a href="{{ page.next.url }}" class="next">
+        {{ page.next.title | split: ": " | last }} →
+    </a>
     {% endif %}
 </div>
 
@@ -21,4 +25,3 @@ layout: default
 <h1>{{ page.title }}</h1>
 
 {{content}}
-

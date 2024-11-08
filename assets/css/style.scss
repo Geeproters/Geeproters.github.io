@@ -59,7 +59,7 @@
 }
 
 .archives-list p {
-  margin-bottom: 5px;
+  margin-bottom: 7px;
 }
 
 .archives-list a:hover {
@@ -102,12 +102,19 @@
 }
 
 .toc ul li a:hover {
-  text-decoration: underline; // Maybe I should underline all links? later
+  text-decoration: underline;
 }
 
 .pagination {
   display: flex;
   margin-bottom: 10px;
+}
+
+.pagination a {
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 4px;
+  transition: background-color 0.3s;
 }
 
 .pagination a:hover {
@@ -122,19 +129,8 @@
   justify-content: flex-end;
 }
 
-.pagination a {
-  text-decoration: none;
-  font-size: 16px;
-  border-radius: 4px;
-  transition: background-color 0.3s;
-}
-
-.pagination .prev {
-  text-align: left;
-}
-
-.pagination .next {
-  text-align: right;
+.pagination.left-button {
+  justify-content: flex-start;
 }
 
 @media screen and (max-width: 700px){
