@@ -12,4 +12,4 @@ In addition to his theatrical compositions, Purcell's instrumental works, like t
 
 [Chamber Concerto in D Minor, RV 96: I. Allegro](https://www.youtube.com/watch?v=sQOegZhWJmI)  
 
-[Vivaldi Violin Concerto in E minor, RV281 | Fabio Biondi Europa Galante](https://www.youtube.com/watch?v=nheev87nOHw)  
+[Vivaldi Violin Concerto in E minor, RV281 - Fabio Biondi Europa Galante](https://www.youtube.com/watch?v=nheev87nOHw)  

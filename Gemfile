@@ -19,6 +19,9 @@ gem "jekyll-sitemap"
 # adding this avoids it
 gem "webrick"
 
+# Ruby 3.4+: csv is no longer part of default gems
+gem "csv"
+
 # adding the following gems to support removal of "github-pages" dependency
 gem "jemoji"
 gem "kramdown-parser-gfm"

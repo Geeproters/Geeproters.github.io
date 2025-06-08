@@ -10,7 +10,7 @@ Darren Korb's OST for Pyre is one of my favorite game soundtracks from recent ye
 [*Path to Glory*](https://youtu.be/tQhbktFT7HI)  
 [*Will of the Scribes*](https://youtu.be/C37PAE0CzTg) - This is the theme of a character, Oralech, and the drums are only heard when the character is on screen.  
 
-The game excels in its use of adaptive music, where the score dynamically changes based on gameplay and character interactions, creating a more immersive experience. Here’s an example of this adaptive music in action. Notice how the track evolves as the scene unfolds, with instruments coming in and out to complement each character; Drums for Jodariel, Mandolin for Hedwyn, and Flute for Rukey:
+The game excels in its use of adaptive music, in which the score dynamically changes based on gameplay and character interactions, creating a more immersive experience. Here’s an example of this adaptive music in action. Notice how the track evolves as the scene unfolds, with instruments coming in and out to complement each character; Drums for Jodariel, Mandolin for Hedwyn, and Flute for Rukey:
 
 [PYRE - Opening / No Commentary](https://youtu.be/_qUKRb3-WTM?t=51)  
 

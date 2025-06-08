@@ -22,4 +22,4 @@ Here's a nice dissection of one aspect of the music theory behind the game's sou
 
 [PATRON REQUEST: How Transistor Uses and Abuses Pedal Points](https://youtu.be/ceem1ZNsFY8?t=34)
 
-As mentioned in the comments, compared to Bastion's, and Hades' soundtracks which are more like Trip Hop Folktronica and Alt/Prog Metal, Transistor's OST has an old-world electronic post-rock feel and composition style. 
+Compared to Bastion's, and Hades' soundtracks which are more like Trip Hop Folktronica and Alt/Prog Metal, Transistor's OST has an old-world electronic post-rock feel and composition style. 

@@ -4,7 +4,7 @@ title: "1: Punch Brothers"
 date: 2020-12-18
 ---
 
-Punch Brothers is an American ensemble featuring Chris Thile, Brittany Haas, Noam Pikelny, Chris Eldridge, and Paul Kowert. Their music blends "bluegrass instrumentation and spontaneity within the framework of modern classical," often described as "American country-classical chamber music."
+Punch Brothers is an American ensemble featuring Chris Thile, Brittany Haas, Noam Pikelny, Chris Eldridge, and Paul Kowert. Their music blends bluegrass instrumentation and spontaneity with modern classical frameworks, often described as "American country-classical chamber music."
 
 Here's a song from their 2015 Progressive Bluegrass album, The Phosphorescent Blues:
 

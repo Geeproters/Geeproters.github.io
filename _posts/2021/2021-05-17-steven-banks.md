@@ -4,7 +4,7 @@ title: "151: Steven Banks"
 date: 2021-05-17  
 ---
 
-Steven Banks is a notable classical and contemporary performer, particularly recognized for his work on the baritone saxophone. His tone is remarkably suited to classical and contemporary works.
+Steven Banks is a notable classical and contemporary performer, particularly recognized for his work on the baritone saxophone. His tone and playing style is remarkably suited to classical and contemporary works.
 
 Here are two contrasting performances that showcase his range:
 

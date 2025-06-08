@@ -8,4 +8,4 @@ From *From Up On Poppy Hill*, here’s a charming song about preparing breakfast
 
 [Breakfast Song (Asagohan no Uta) 朝ご飯の歌](https://youtu.be/GZWuVafxAUg). 
 
-From Up On Poppy Hill is a 2011 Ghibli film directed by Goro Miyazaki. It captures the nostalgic atmosphere of 1960s Japan, centering on themes of youth and community.
+From Up On Poppy Hill is a 2011 Ghibli film directed by Goro Miyazaki. It captures the nostalgic atmosphere of 1960s Japan, centered on themes of youth and community.

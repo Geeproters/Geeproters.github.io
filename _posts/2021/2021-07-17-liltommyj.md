@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "212:"
+title: "212: liltommyj"
 date: 2021-07-17
 ---
 
-liltommyj has made a bunch of these remixes, but this one's his most popular:
- Open Your Eyes (Zelda: Breath of the Wild Remix)
-https://youtu.be/xCKRI_3q13Q 
-All of them are very technically impressive. Must take forever to make.
+liltommyj makes plunderphonics-style remixes of video games, using recognizable elements like dialogue, music, and sound effects to build new compositions.
+
+[Open Your Eyes (Zelda: Breath of the Wild Remix)](https://youtu.be/xCKRI_3q13Q)

@@ -12,6 +12,6 @@ Here's Sprawling Idiot Effigy, the final track from From Rotting Fantasylands:
 
 [Sprawling Idiot Effigy](https://youtu.be/yOJSXyPAVtw)  
 
-Avalon Vales, a later album, is a little less abrasive than From Rotting Fantasylands but arguably more emotive. I've timestamped my favorite track below, but it’s definitely worth a full start-to-finish:  
+Avalon Vales, a later album, is a little less abrasive than From Rotting Fantasylands but is arguably more emotive. I've timestamped my favorite track below, but it’s definitely worth a full start-to-finish:  
 
 [Avalon Vales - Lauren Bousfield](https://youtu.be/giGJ_QdZv3Y?t=908)  

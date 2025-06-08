@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "280:"
+title: "280: Anthology"
 date: 2021-09-23
 ---
 
-Anthology by the Irony Strings
-https://youtu.be/naaBmAkK7GM
+Calm instrumental piece from *The Irony Strings*.
+
+[Anthology – The Irony Strings](https://youtu.be/naaBmAkK7GM)

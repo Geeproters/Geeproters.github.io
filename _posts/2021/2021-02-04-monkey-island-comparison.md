@@ -13,7 +13,7 @@ First, the original PC Speaker theme, which showcases the limitations of early c
 [The Secret of Monkey Island (Intro) (PC Speaker theme)](https://youtu.be/1IOL4q5tDDQ)  
 
 Wikipedia: A PC speaker (Not to be confused with Computer speakers) is a loudspeaker built into some IBM PC compatible computers. The first IBM Personal Computer, model 5150, employed a standard 2.25 inch magnetic driven (dynamic) speaker. More recent computers use a tiny moving-iron or piezo speaker instead. The speaker allows software and firmware to provide auditory feedback to a user, such as to report a hardware fault. A PC speaker generates waveforms using the programmable interval timer, an Intel 8253 or 8254 chip. The PC speaker is normally meant to reproduce a square wave via only 2 levels of output, which limits its ability to create complex audio. It generates sound waves directly, often resulting in beeping or buzzing tones.
-<br><br>  
+<br>  
 
 In contrast, the Roland MT-32 version is richer and more nuanced:  
 

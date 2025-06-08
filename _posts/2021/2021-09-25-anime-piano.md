@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "282:"
+title: "282: Silver-Haired Lullaby"
 date: 2021-09-25
 ---
 
- 32. 銀髪のララバイ / Hunter x Hunter 2011 Original Soundtrack
-https://youtu.be/YuodxioCEYo
+Track 32 from the *Hunter x Hunter (2011)* soundtrack.
+
+[銀髪のララバイ / Silver-Haired Lullaby](https://youtu.be/YuodxioCEYo)

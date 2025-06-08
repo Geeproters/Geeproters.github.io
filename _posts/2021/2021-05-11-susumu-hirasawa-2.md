@@ -4,7 +4,7 @@ title: "145: Susumu Hirasawa"
 date: 2021-05-11  
 ---
 
-Although Susumu Hirasawa is well-known among Western audiences for his compositions on the soundtracks of *Berserk* and *Paprika*, his standalone music is an equally compelling body of work.
+Although Susumu Hirasawa is well-known among Western audiences for his compositions on the soundtracks of *Berserk* and *Paprika*, his standalone music is an even more compelling body of work.
 
 Some notable examples:
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "290:"
+title: "290: Chiisana Hitotsubu"
 date: 2021-10-03
 ---
 
-The ending is good too
- Chiisana Hitotsubu
-https://youtu.be/TH50vFg00kM
+The ED of the show is also good.
+
+[Chiisana Hitotsubu](https://youtu.be/TH50vFg00kM)

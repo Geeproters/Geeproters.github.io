@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "210:"
+title: "210: Shovel Knight: Plague of Shadows"
 date: 2021-07-15
 ---
 
-Shovel Knight Plague Of Shadows Soundtrack (Ost) - 05 Waltz For One
-https://youtu.be/JnxWtxo0VNk
+[Waltz for One – Shovel Knight: Plague of Shadows OST](https://youtu.be/JnxWtxo0VNk)

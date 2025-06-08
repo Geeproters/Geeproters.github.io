@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "233:"
+title: "233: Tianya Genu (The Wandering Songstress)"
 date: 2021-08-07
 ---
 
-"Tianya genü" (Chinese: 天涯歌女; pinyin: Tiānyá gēnǚ), or "The Wandering Songstress", is one of two theme songs from the 1937 Chinese film Street Angel; the other being the "Four Seasons Song" (Chinese: 四季歌; pinyin: Sì jì gē). It was composed by He Luting based on an older Suzhou ballad, with lyrics by Tian Han.[1][2] The song was sung by Zhou Xuan in the film, playing the role of Xiao Hong.[3][4]
+"Tianya Genu" (天涯歌女), or "The Wandering Songstress," is one of the iconic theme songs from the 1937 Chinese film *Street Angel*. Composed by He Luting with lyrics by Tian Han, it was performed by Zhou Xuan in the film.
 
-It is one of the most notable of the Chinese popular songs from the 30s and 40s, and has been described as a song that has "a lingering fame" in China like "As Time Goes By" from the 1942 film Casablanca in the United States.[5] The song has also been described as "a classic Chinese love song". 
+The song holds a special place in Chinese music history, often compared to the enduring fame of "As Time Goes By" from *Casablanca* in the West. It is celebrated as a classic Chinese love song that has resonated across generations.
 
- 周璇 - 天涯歌女
-https://youtu.be/hxu8Kxuf-Sg
+[周璇 - 天涯歌女](https://youtu.be/hxu8Kxuf-Sg)  

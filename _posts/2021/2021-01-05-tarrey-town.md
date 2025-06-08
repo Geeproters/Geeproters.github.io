@@ -4,6 +4,8 @@ title: "19: Tarrey Town"
 date: 2021-01-05
 ---
 
-[Tarrey Town - The Legend of Zelda: Breath of the Wild Soundtrack](https://youtu.be/SqhZbK6RI8g)  
+"Tarrey Town" is a location theme from *The Legend of Zelda: Breath of the Wild*. As the town expands, the music adapts by layering in new instrumentation representing the diverse species who move in.
 
-This is one of my favorite tracks from the game. It utilizes adaptive music elements, which I’ll discuss more later.
+The track uses adaptive composition techniques, with different musical motifs tied to specific characters and areas.
+
+[Tarrey Town – The Legend of Zelda: Breath of the Wild Soundtrack](https://youtu.be/SqhZbK6RI8g)

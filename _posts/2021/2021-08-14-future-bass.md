@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "240:"
+title: "240: Future Bass"
 date: 2021-08-14
 ---
 
-Here's a mix of "Future Bass" Tracks, around half of which are by PSYQUI.
- 【Future Bass】The Best Tracks Mix 【作業用】
-https://youtu.be/TuUzAY0oXjk 
-Future Bass is described as "electronic dance music that originated in the 2010s. Music that "takes the ecstatic drops of dubstep or trap but provides a warm bounce rather than a lumbering bruteness. Basslines are provided by harsh, detuned synths that buzz and purr instead of gulp and whomp." 
-You can hear these in most of the most music PSYQUI makes
+Future Bass emerged in the 2010s as a more melodic, uplifting branch of EDM—keeping the energy of dubstep and trap, but swapping aggression for shimmering synths and emotional progressions. It often features sidechained chords, wobbly detuned leads, and punchy vocal chops, delivering a sound that’s both intense and euphoric.
+
+The genre has become especially popular in Japan’s electronic scene, influencing artists like PSYQUI and Snail’s House.
+
+[【Future Bass】The Best Tracks Mix 【作業用】](https://youtu.be/TuUzAY0oXjk)
