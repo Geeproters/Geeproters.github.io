@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "321:"
+title: "321: Shnabubula"
 date: 2021-11-03
 ---
 
-Here's an album from Shnabubula, a new-age / neo-classical / jazz / chiptune composer and musician. He often uses chiptune in the form of a simulation of audio hardware using a 16-bit digital sampling system (ie. the SNES). Much of his work could be classified as digital fusion. This album demonstrates a very interesting fusion of real piano over electronic instrumentation. The real instrument and the synthesized ones switch between melody and harmony and create a cool texture that's fun to listen to.
- Shnabubula -  Free Play
-https://youtu.be/6Tzkg0JuMls?t=507
+Shnabubula is a composer blending new-age, neo-classical, jazz, and chiptune elements, often simulating 16-bit audio hardware like the SNES. His work falls under digital fusion, combining acoustic and electronic sounds seamlessly.
+
+This album features a compelling interplay between real piano and synthesized instruments, with each taking turns on melody and harmony. The result is a textured listening experience that balances organic and electronic tones.
+
+[Shnabubula - Free Play](https://youtu.be/6Tzkg0JuMls?t=507)

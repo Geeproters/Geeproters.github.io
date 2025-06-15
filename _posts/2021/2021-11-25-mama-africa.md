@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "343:"
+title: "343: Miriam Makeba"
 date: 2021-11-25
 ---
 
-Zenzile Miriam Makeba (born 1932), nicknamed Mama Africa, was a South African singer, songwriter, actress, and civil rights activist. Associated with musical genres including Afropop, jazz, and world music, she was an advocate against apartheid and white-minority government in South Africa.
- Miriam Makeba - Wikipedia 
-She lived an extremely interesting and turbulent life, forced to find employment as a child after the death of her father, suffering a brief and abusive first marriage at the age of 17, giving birth to her only child in 1950, and surviving breast cancer. The apartheid regime, for those who don't know, was a system of institutionalized racial segregation and white supremacy which placed all political power in the hands of a white minority in South Africa beginning in 1948 and lasting until 1994. Soon after the Sharpeville massacre in 1960, Makeba learned that her mother and another of her family members had died. The incident left her concerned about her family, many of whom were still in South Africa, including her daughter. After touring and living in England and the US, she tried to return home in 1960 for her mother's funeral. Makeba regularly spoke out against the racial segregation of apartheid, and so authorities turned her away at the airport, barring her from returning. The ruling government had terminated her South African passport, forcing Makeba into exile, during which she was unable to return to South Africa for more than 3 decades. Here's are a couple of her songs, both sung in her native language of Xhosa, a Nguni language well known for having perhaps the heaviest functional load of click consonants in a Bantu language.
- Miriam Makeba - Qongqothwane (The Click Song) (Live, 1963)
-https://youtu.be/rjo8h5qLpU0
- Miriam Makeba - Pata Pata (Stereo Version)
-https://youtu.be/JBJVVhn7iuo 
-Makeba was among the first African musicians to receive worldwide recognition. She brought African music to a Western audience, and popularized the world music and Afropop genres.
- 
-Made in Abyss "Dawn of the Deep Soul"『Prushka Sequence 』 | OST Volume 2
-;-;
+Zenzile Miriam Makeba (1932–2008), known as “Mama Africa,” was a South African singer, activist, and one of the earliest global ambassadors of African music. She helped popularize Afropop and world music in the West, blending Xhosa rhythms, jazz, and political fire.
+
+Her life was deeply shaped by apartheid. After the Sharpeville massacre in 1960, Makeba’s South African passport was revoked—barring her from returning home for over 30 years. She lived in exile, raising awareness abroad while unable to attend her own mother’s funeral. She survived cancer, early abuse, and constant political turbulence—all while becoming one of the most recognizable African voices of the 20th century.
+
+Two of her best-known songs (both in Xhosa, a language famous for its click consonants):
+
+[Miriam Makeba – Qongqothwane (The Click Song) (Live, 1963)](https://youtu.be/rjo8h5qLpU0)  
+
+[Miriam Makeba – Pata Pata (Stereo Version)](https://youtu.be/JBJVVhn7iuo)
+
+Makeba didn’t just sing about freedom—she lived its costs, and still made the world dance.

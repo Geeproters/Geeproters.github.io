@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "308:"
+title: "308: Culprate – Deliverance"
 date: 2021-10-21
 ---
 
-Here are a couple tracks from an incredible electronic album, Deliverance by Culprate. Deliverance is a mish mash of IDM, dubstep, glitch, sound collage, acid jazz, and other genres and techniques. One of the most unique and fun electronic albums I know of.
- Acid Rain
-https://youtu.be/m6uGdnOBNxY
- Relucent Ft. ZES (Bonus)
-https://youtu.be/mYWX8cReOAQ
+*Deliverance* by Culprate is an adventurous electronic album that blends IDM, dubstep, glitch, acid jazz, and sound collage into a singular, dynamic experience. Its genre-defying approach combines intricate production techniques with a playful spirit, making it one of the most distinctive electronic releases in recent years.
+
+Tracks like “Acid Rain” and “Relucent” (featuring ZES) showcase this hybrid ethos, shifting seamlessly between dense textures and melodic passages while pushing the boundaries of electronic music’s conventional forms.
+
+[Acid Rain](https://youtu.be/m6uGdnOBNxY)  
+
+[Relucent Ft. ZES (Bonus)](https://youtu.be/mYWX8cReOAQ)

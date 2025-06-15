@@ -1,20 +1,16 @@
 ---
 layout: post
-title: "313:"
+title: "313: The Avalanches"
 date: 2021-10-26
 ---
 
-Since I Left You is the debut album released by Australian electronic group the Avalanches in November 2000. The album is a mix of EDM, hip hop, and plunderphonics. Plunderphonics is a music genre in which tracks are constructed by sampling recognizable musical works. The term was coined by composer John Oswald in 1985 in his essay "Plunderphonics, or Audio Piracy as a Compositional Prerogative". The full album is around an hour long, and according to Robbie Chater, used about 900 samples.
- The Avalanches - Since I Left You
-https://youtu.be/wpqm-05R2Jk
- The Avalanches - Frontier Psychiatrist (Official Video)
-https://youtu.be/qLrnkK2YEcE
+*Since I Left You* (2000) is the debut album by Australian electronic group The Avalanches. It’s a landmark in plunderphonics—a genre defined by composer John Oswald in 1985 as music built from recognizable samples repurposed into new compositions. The album runs about an hour and reportedly uses around 900 samples, blending EDM and hip hop into a seamless collage.
 
+[Since I Left You (Full Album)](https://youtu.be/wpqm-05R2Jk)  
+[Frontier Psychiatrist (Official Video)](https://youtu.be/qLrnkK2YEcE)  
 
-We Will Always Love You is the third studio album from Australian electronic group the Avalanches, released December 2020. The album is primarily psychedelia, sampledelia, and pop, it's less in the vein of plunderphonics than their previous albums. Sampledelia features "disorienting, perception-warping" manipulations of audio samples or found sounds via techniques such as chopping, looping or stretching.
- We Go On
-https://youtu.be/En3SmG86Q7k
- The Divine Chord
-https://youtu.be/bv4hpn-HKrI
- Running Red Lights
-https://youtu.be/p5_C4J-MlO8 The album features many collaborators: Sananda Maitreya, Vashti Bunyan, Blood Orange, Rivers Cuomo, Pink Siifu, Denzel Curry, Tricky, Sampa the Great, Leon Bridges, Johnny Marr, MGMT, Clypso, Neneh Cherry, Jamie xx, Kelly Moran, Cornelius, Karen O, Kurt Vile, Mick Jones, Cola Boyy, Perry Farrell, and Orono.
+Their third album, *We Will Always Love You* (2020), shifts toward psychedelia and sampledelia. Sampledelia manipulates audio with chopping, looping, and stretching to create disorienting, perception-warping soundscapes. The album features an impressive list of collaborators including Blood Orange, Rivers Cuomo, Tricky, Leon Bridges, and Jamie xx, expanding its sonic palette.
+
+[We Go On](https://youtu.be/En3SmG86Q7k)  
+[The Divine Chord](https://youtu.be/bv4hpn-HKrI)  
+[Running Red Lights](https://youtu.be/p5_C4J-MlO8)

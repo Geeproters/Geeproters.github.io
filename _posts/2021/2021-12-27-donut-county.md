@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "375:"
+title: "375: Donut County OST – Daniel Koestner"
 date: 2021-12-27
 ---
 
-Here are a couple of tracks composed by Daniel Koestner for Donut County, another mobile game. His music often combines glitch-based audio with non-electric instrumentation, usually upbeat and relaxing tracks. Doing this adds a layer of rhythm and complexity to the music, and is pretty satisfying to listen to.
- Garbage Day
-https://youtu.be/pYzY3Jzmb1k (indie pop/acoustic type beat)
- Bird of Paradise
-https://youtu.be/IlF0meDwfXI (bossa nova type beat)
+Daniel Koestner composed the soundtrack for *Donut County*, a physics-based indie puzzle game. His work blends acoustic instrumentation with glitchy, digital textures—creating tracks that are rhythmically intricate yet laid-back. The result is a sound that feels both handcrafted and playfully synthetic.
+
+Indie pop/acoustic type beat.  
+
+[Garbage Day](https://youtu.be/pYzY3Jzmb1k)
+
+Bossa nova type beat.  
+
+[Bird of Paradise](https://youtu.be/IlF0meDwfXI)

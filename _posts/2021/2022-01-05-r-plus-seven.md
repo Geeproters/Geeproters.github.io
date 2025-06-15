@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "384:"
+title: "384: R Plus Seven"
 date: 2022-01-05
 ---
 
-R Plus Seven is an electronic album by Oneohtrix Point Never, released 2013. It could be classified as Ambient, IDM, Drone, and Glitch, with elements of Musique Concrète. Since I haven't mentioned it before, Musique Concrète describes very early electronic music that used tapes, tubes, transistors, and other electronic equipment. Nowadays, Musique Concrète uses natural sounds (from field recordings for instance), often heavily treated, and/or pure electronic sounds (analog / digital synthesis) in abstract compositions, mostly without melody and rhythm. Most electroacoustic/acousmatic often music falls into this category. Sometimes the term is used for field recordings and other soundscapes.
- Oneohtrix Point Never -   R Plus Seven (Full Album)
-https://youtu.be/R7XcAaVumgc 
-This album feels at times floaty, visceral, and electrifying. I find the atmosphere it creates to be really immersive and interesting, especially with the juxtaposition of the acoustic pipe organ and various electronic elements.
+*R Plus Seven* is a 2013 electronic album by Oneohtrix Point Never that blends ambient, IDM, drone, glitch, and musique concrète elements. Musique concrète originally referred to early electronic music using tape manipulation and analog equipment. Today, it often involves natural sounds from field recordings, heavily processed or combined with pure electronic synthesis in abstract compositions usually lacking traditional melody and rhythm.
+
+The album creates an immersive atmosphere through the contrast of acoustic pipe organ sounds and various electronic textures. It often feels floaty, visceral, and electrifying, pulling listeners into a richly layered sound world. *R Plus Seven* is a notable example of modern electroacoustic music pushing boundaries between the natural and synthetic.
+
+[Oneohtrix Point Never - R Plus Seven (Full Album)](https://youtu.be/R7XcAaVumgc)  

@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "305:"
+title: "305: Mikio Masuda – Variations on 'Let's Get Together'"
 date: 2021-10-18
 ---
 
-Mikio Masuda (born 1949) is a Japanese jazz and jazz fusion keyboardist. Largely self-taught, Masuda played bass at the age of 16, before switching to piano and performing in various clubs in Osaka. Here are three versions of his song "Let's Get Together," recorded in different years on different albums. It can be interesting hearing the similarities and differences between the two, the first focusing on a much slower groove and with a more experimental synth sound, the second sounding a bit more like traditional funk/jazz fusion, and the third with another very interesting jazz sound.
- Mikio Masuda - Let's Get Together [HQ]
-https://youtu.be/TLdKqs7iDrc (from the 1976 album "Mickey's Mouth")
- Mikio Masuda ‎– Moon Stone (1978) Album
-https://youtu.be/Ssu-pntQsLc?t=1323 (timestamped from the 1978 album Moon Stone)
- 益田幹夫 (Mikio Masuda) - Corazón 1979 [FULL ALBUM]
-https://youtu.be/k96aXW1OynM?t=1503 (timestamped from the 1979 album Corazón)
+Japanese jazz keyboardist Mikio Masuda emerged from the Osaka club scene in the early 1970s, carving out a distinctive space in electric jazz and fusion. A self-taught multi-instrumentalist, his work bridges modal jazz, funk, and experimental synth textures.
+
+“Let’s Get Together” appears across three albums between 1976 and 1979—each version reflecting a shift in style and instrumentation. The earliest, from *Mickey’s Mouth* (1976), is spare and slow-burning, led by exploratory synth tones. By *Moon Stone* (1978), the track adopts a tighter, groove-driven fusion feel with clearer melodic structure. The 1979 version on *Corazón* reinterprets the piece again, this time folding in Latin jazz elements and a more syncopated rhythmic base.
+
+[Let’s Get Together – from *Mickey’s Mouth* (1976)](https://youtu.be/TLdKqs7iDrc)  
+
+[Let’s Get Together – from *Moon Stone* (1978)](https://youtu.be/Ssu-pntQsLc?t=1323)  
+
+[Let’s Get Together – from *Corazón* (1979)](https://youtu.be/k96aXW1OynM?t=1503)

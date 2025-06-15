@@ -1,19 +1,15 @@
 ---
 layout: post
-title: "306:"
+title: "306: Chega de Saudade"
 date: 2021-10-19
 ---
 
-Here are three versions of Chega De Saudade, also known as "No More Blues". It's a bossa nova jazz standard, often considered to be the first recorded bossa nova song. Like "The Girl from Ipanema", the music for "Chega de Saudade" was composed by Antônio Carlos Jobim, with lyrics written by Vinícius de Moraes. From Jobim's album Inédito, released in 1987:
- Chega De Saudade
-https://youtu.be/tlp8iY4g--4 
+Often cited as the first bossa nova recording, “Chega de Saudade” (“No More Blues”) helped define the genre’s understated rhythm and harmonic sophistication. Composed by Antônio Carlos Jobim with lyrics by Vinícius de Moraes, it’s a cornerstone of Brazilian music and a global jazz standard.
 
+João Gilberto’s 1958 recording introduced the song’s quiet syncopation and guitar style, establishing a new vocabulary for popular Brazilian music. Decades later, Jobim revisited the piece on *Inédito* (1987), offering a reflective interpretation with fuller orchestration. A third version, by Yo-Yo Ma and Rosa Passos, reframes the song through classical phrasing and intimate vocal-guitar interplay—demonstrating the piece’s adaptability across genres.
 
-By João Gilberto, Brazilian singer, songwriter, and guitarist, who was a pioneer of the musical genre of bossa nova in the late 1950s. Also often called the "father of bossa nova." His original recording in 1958 popularized the song. This recording was released in 2000. the album it belongs to won the 2001 Grammy Award for Best World Music Album.
- Chega De Saudade
-https://youtu.be/BOehLNJeHMI 
+[Chega de Saudade – Antônio Carlos Jobim, *Inédito* (1987)](https://youtu.be/tlp8iY4g--4)  
 
+[Chega de Saudade – João Gilberto (2000)](https://youtu.be/BOehLNJeHMI)  
 
-By American Cellist Yo-Yo Ma and Brazilian singer Rosa Passos, released 2003.
- Chega de Saudade
-https://youtu.be/zpxuXIV_O9E
+[Chega de Saudade – Yo-Yo Ma & Rosa Passos (2003)](https://youtu.be/zpxuXIV_O9E)

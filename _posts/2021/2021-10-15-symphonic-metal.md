@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "302:"
+title: "302: Symphonic Metal"
 date: 2021-10-15
 ---
 
-Symphonic metal is both a genre of metal and a cross-generic style designation denoting the symphonic subsets of heavy metal music subgenres. As such, both forms of usage have slightly varying definitions. Symphonic metal makes use of symphonic or orchestral elements similar to classical symphony.
- EPICA - Storm The Sorrow (OFFICIAL VIDEO)
-https://youtu.be/dNoTvg0t52c
- IGNEA — Alga (Official Video) / symphonic metal
-https://youtu.be/6KOXbzMRQHs 
-The roots of modern symphonic metal are likely found in early death metal and gothic metal bands in the 1980s.
+Symphonic Metal merges the scale of classical orchestration with the intensity of metal—operatic vocals, cinematic arrangements, and distorted guitars share equal billing.
+
+As a cross-generic style, it appears across subgenres but gained distinct form in the 1990s, particularly in Europe. Drawing from gothic and death metal foundations, bands began integrating full orchestras or synthesized equivalents, often alongside classically trained vocalists. While precursors existed in the 1980s, it was bands like Therion and Nightwish who standardized the genre’s sonic palette: choral textures, string sections, and counterpoint layered over metal riffing.
+
+[EPICA – Storm the Sorrow (Official Video)](https://youtu.be/dNoTvg0t52c)  
+
+[IGNEA – Alga (Official Video)](https://youtu.be/6KOXbzMRQHs)

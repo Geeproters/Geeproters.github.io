@@ -1,9 +1,7 @@
 ---
 layout: post
-title: "352:"
+title: "352: Cruelty Squad"
 date: 2021-12-04
 ---
 
-More slurp
- Cruelty Squad OST: Sewage | Bog Buisness
-https://youtu.be/tHDZlMhOUYI
+[Cruelty Squad OST: Sewage | Bog Buisness](https://youtu.be/tHDZlMhOUYI)

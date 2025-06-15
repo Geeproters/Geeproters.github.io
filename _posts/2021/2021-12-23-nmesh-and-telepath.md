@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "371:"
+title: "371: Nmesh and t e l e p a t h – ロストエデンへのパス"
 date: 2021-12-23
 ---
 
-ロストエデンへのパス Nmesh (Alex Koenig) and t e l e p a t h テレパシー能力者 (Luke Laurila). "The album is split effectively into two halves - A: The Path and then the "Lost Eden" itself as side B - with Nmesh taking control for the epic journey on Side A, while Telepath invites the listener into another look into the world of dreams with his Lost Eden on Side B." Just a neat ambient electronica album with lots of vaporwave influence. Relaxing.
- Nmesh and t e l e p a t h テレパシー能力者 : ロストエデンへのパス
-https://youtu.be/IWsJUFAZv4Y
- Nmesh and t e l e p a t h テレパシー能力者 : ロストエデンへのパス
-https://youtu.be/IWsJUFAZv4Y?t=4241 (timestamped one of t e l e p a t h's tracks)
+A collaboration between Alex Koenig (Nmesh) and Luke Laurila (t e l e p a t h テレパシー能力者), *ロストエデンへのパス* is a two-part ambient electronica album steeped in vaporwave aesthetics. Side A, guided by Nmesh, presents a surreal, sample-heavy voyage, while Side B shifts into dreamlike territory under t e l e p a t h’s control. The album explores memory, fantasy, and synthetic nostalgia through expansive, slow-moving textures.
+
+Full album featuring both artists, split into two thematic halves.  
+[Nmesh and t e l e p a t h – ロストエデンへのパス](https://youtu.be/IWsJUFAZv4Y)  
+
+A timestamped entry into t e l e p a t h’s side, rich with drifting pads and distant echoes.  
+[Nmesh and t e l e p a t h – ロストエデンへのパス (Side B excerpt)](https://youtu.be/IWsJUFAZv4Y?t=4241)

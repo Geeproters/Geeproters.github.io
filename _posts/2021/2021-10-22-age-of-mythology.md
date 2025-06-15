@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "309:"
+title: "309: Age of Mythology"
 date: 2021-10-22
 ---
 
-Here's a track time stamped from the full OST of Age of Mythology, a RTS game in the Age of Empires series, released 2002. The full soundtrack makes use of lots of interesting instrumentation and techniques from around the world. This ambient track, Eat Your Potatoes, is one of my favorites.
- Age of Mythology Soundtrack (Full)
-https://youtu.be/TGXwvLupP5A?t=52
+The *Age of Mythology* soundtrack (2002) enriches the RTS experience with a blend of global musical textures and traditional instruments, reflecting the game’s mythic and cultural themes. Composed by Stephen Rippy and Kevin McMullan, the score integrates ambient soundscapes with ethnic motifs to create immersive atmospheres.
+
+“Eat Your Potatoes” is a standout track featuring layered percussion and subtle melodic elements, embodying the soundtrack’s fusion of world music influences with ambient mood-setting.
+
+[Age of Mythology Soundtrack - 02 Eat Your Potatoes](https://youtu.be/gMOLrTNdTlU)

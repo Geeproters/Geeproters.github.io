@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "373:"
+title: "373: Sweet Trip – Velocity: Design: Comfort"
 date: 2021-12-25
 ---
 
-IDM, Ambient techno, shoegaze, and indie/dream/glitch pop album from electronic/experimental rock act Sweet Trip. Lots of glitching and breakbeats. Velocity: Design: Comfort (Released 2003)
- Sweet Trip - Velocity : Design : Comfort.
-https://youtu.be/fZlNt05dCX8 "chocolate matter" and "international" are my favorite tracks off the album. "dsco" is also good.
+Released in 2003, *Velocity: Design: Comfort* by Sweet Trip is a cult favorite that merges IDM, ambient techno, shoegaze, glitch pop, and indie electronica into a dreamy, intricate whole. The band—known for its experimental approach to both sound design and structure—builds songs with layered textures, abrupt breakbeats, and moments of lo-fi fragility. 
 
+The album functions as a genre-blurring collage, with each track offering a distinct emotional and sonic palette.
 
-The album functions somewhat as a collage of various electronic and pop genres, so the sound and feelings vary greatly from track to track.
+Featuring stuttering rhythms and luminous pop melodies.  
+[Sweet Trip – Velocity : Design : Comfort.](https://youtu.be/fZlNt05dCX8)  
+
+Favorite tracks: “Chocolate Matter,” “International,” and “Dsco.”
