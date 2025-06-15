@@ -10,16 +10,20 @@ His work frequently integrates techniques from glitch, noise, breakcore, and sou
 
 Maeda's compositions feel like controlled chaos—sprawling yet intricately composed, with a structural complexity reminiscent of avant-garde cinema.
 
-A relatively subdued piece with rich harmonic layering and ambient textures.
+A relatively subdued piece with rich harmonic layering and ambient textures.  
+
 [World's End Girlfriend – 100 Years of Choke](https://youtu.be/KYBulfbBstc)  
 
-Juxtaposes fragile piano motifs with abrasive electronic bursts.
+Juxtaposes fragile piano motifs with abrasive electronic bursts.  
+
 [Girl (from "Last Waltz")](https://youtu.be/5E-t0UvrNT0)  
 
-Classical instrumentation meets post-rock dynamics in a cinematic arc.
+Classical instrumentation meets post-rock dynamics in a cinematic arc.  
+
 [MEGURI](https://youtu.be/YUpB_COsAdA)  
 
-Features distorted guitar textures and more explicit references to Japanese rock idioms.
+Features distorted guitar textures and more explicit references to Japanese rock idioms.  
+
 [Les Enfants du Paradis (from "Seven Idiots")](https://youtu.be/PfG_G2O2q40)  
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "308: Culprate – Deliverance"
+title: "308: Culprate - Deliverance"
 date: 2021-10-21
 ---
 

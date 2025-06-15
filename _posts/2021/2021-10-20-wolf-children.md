@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "307: Wolf Children Soundtrack"
+title: "307: Wolf Children"
 date: 2021-10-20
 ---
 

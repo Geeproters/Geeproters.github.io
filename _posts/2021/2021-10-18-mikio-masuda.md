@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "305: Mikio Masuda – Variations on 'Let's Get Together'"
+title: "305: Mikio Masuda"
 date: 2021-10-18
 ---
 

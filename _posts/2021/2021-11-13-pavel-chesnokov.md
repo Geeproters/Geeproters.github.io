@@ -16,7 +16,7 @@ Another recording of Pasyukov’s incredible voice (careful about volume):
 [Pasyukov - (Rare) Do Not Reject Me In My Old Age - Chesnokov](https://youtu.be/xDNoTyMyGbM?t=151)  
 
 A piece by Alexei Fyodorovich Lvov (1798–1870), featuring three basso profondos evenly spread in the choir:  
-[The Orthodox Singers Male Choir - Basso Profondo From Old Russia - Before Thy Cross | Alexey Lvov](https://youtu.be/FX_IhikLmuY)  
+[The Orthodox Singers Male Choir - Basso Profondo From Old Russia - Before Thy Cross - Alexey Lvov](https://youtu.be/FX_IhikLmuY)  
 
 "Salvation is Created" (1912) by Chesnokov is a late sacred work composed before Soviet suppression of Christianity. Although he never heard his own composition performed, his children had the opportunity following his death. This performance is by VOCES8:  
 [VOCES8: Spaséñiye, sodélal (Salvation is created) - Pavel Tschesnokoff](https://youtu.be/n8BwsZqTyr0)  

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paul Lansky and Electroacoustic"
+title: "377: Paul Lansky and Electroacoustic"
 date: 2021-12-29
 ---
 
